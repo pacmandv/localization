@@ -12,3 +12,9 @@ and translate it to the french, should be something like below
 >"Review Text","Réviser le texte"
 
 Put localization directory with files to the appropriate directory of Magento by the path {project_root}app/locale/.
+
+##Were added localization files for a few locale.
+1. de_DE, Deutsch - German locale. Contains not a full translation. Starting from line 412 not translated text, but please recheck all file.    
+2. he_IL, Hebrew - Israel locale. Contains not full translation. Starting from line 93 not translated tex, but please recheck all file.    
+3. nl_NL, Dutch - Netherlands locale. Contains not full translation. Starting from line 50 not translated tex, but please recheck all file.    
+4. ru_RU, Russian - Russian locale. Contains not full translation. Starting from line 90 not translated tex, but please recheck all file.    
